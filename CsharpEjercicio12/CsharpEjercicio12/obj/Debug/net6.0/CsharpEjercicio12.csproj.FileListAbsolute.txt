@@ -1,0 +1,15 @@
+D:\programacion\C#\c# guia 5\CsharpEjercicio12\CsharpEjercicio12\obj\Debug\net6.0\CsharpEjercicio12.csproj.AssemblyReference.cache
+D:\programacion\C#\c# guia 5\CsharpEjercicio12\CsharpEjercicio12\obj\Debug\net6.0\CsharpEjercicio12.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\C#\c# guia 5\CsharpEjercicio12\CsharpEjercicio12\obj\Debug\net6.0\CsharpEjercicio12.AssemblyInfoInputs.cache
+D:\programacion\C#\c# guia 5\CsharpEjercicio12\CsharpEjercicio12\obj\Debug\net6.0\CsharpEjercicio12.AssemblyInfo.cs
+D:\programacion\C#\c# guia 5\CsharpEjercicio12\CsharpEjercicio12\obj\Debug\net6.0\CsharpEjercicio12.csproj.CoreCompileInputs.cache
+D:\programacion\C#\c# guia 5\CsharpEjercicio12\CsharpEjercicio12\bin\Debug\net6.0\CsharpEjercicio12.exe
+D:\programacion\C#\c# guia 5\CsharpEjercicio12\CsharpEjercicio12\bin\Debug\net6.0\CsharpEjercicio12.deps.json
+D:\programacion\C#\c# guia 5\CsharpEjercicio12\CsharpEjercicio12\bin\Debug\net6.0\CsharpEjercicio12.runtimeconfig.json
+D:\programacion\C#\c# guia 5\CsharpEjercicio12\CsharpEjercicio12\bin\Debug\net6.0\CsharpEjercicio12.dll
+D:\programacion\C#\c# guia 5\CsharpEjercicio12\CsharpEjercicio12\bin\Debug\net6.0\CsharpEjercicio12.pdb
+D:\programacion\C#\c# guia 5\CsharpEjercicio12\CsharpEjercicio12\obj\Debug\net6.0\CsharpEjercicio12.dll
+D:\programacion\C#\c# guia 5\CsharpEjercicio12\CsharpEjercicio12\obj\Debug\net6.0\refint\CsharpEjercicio12.dll
+D:\programacion\C#\c# guia 5\CsharpEjercicio12\CsharpEjercicio12\obj\Debug\net6.0\CsharpEjercicio12.pdb
+D:\programacion\C#\c# guia 5\CsharpEjercicio12\CsharpEjercicio12\obj\Debug\net6.0\CsharpEjercicio12.genruntimeconfig.cache
+D:\programacion\C#\c# guia 5\CsharpEjercicio12\CsharpEjercicio12\obj\Debug\net6.0\ref\CsharpEjercicio12.dll

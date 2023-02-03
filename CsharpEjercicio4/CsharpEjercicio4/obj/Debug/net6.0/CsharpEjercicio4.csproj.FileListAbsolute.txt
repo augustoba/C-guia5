@@ -1,0 +1,15 @@
+D:\programacion\C#\c# guia 5\CsharpEjercicio4\CsharpEjercicio4\bin\Debug\net6.0\CsharpEjercicio4.exe
+D:\programacion\C#\c# guia 5\CsharpEjercicio4\CsharpEjercicio4\bin\Debug\net6.0\CsharpEjercicio4.deps.json
+D:\programacion\C#\c# guia 5\CsharpEjercicio4\CsharpEjercicio4\bin\Debug\net6.0\CsharpEjercicio4.runtimeconfig.json
+D:\programacion\C#\c# guia 5\CsharpEjercicio4\CsharpEjercicio4\bin\Debug\net6.0\CsharpEjercicio4.dll
+D:\programacion\C#\c# guia 5\CsharpEjercicio4\CsharpEjercicio4\bin\Debug\net6.0\CsharpEjercicio4.pdb
+D:\programacion\C#\c# guia 5\CsharpEjercicio4\CsharpEjercicio4\obj\Debug\net6.0\CsharpEjercicio4.csproj.AssemblyReference.cache
+D:\programacion\C#\c# guia 5\CsharpEjercicio4\CsharpEjercicio4\obj\Debug\net6.0\CsharpEjercicio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\C#\c# guia 5\CsharpEjercicio4\CsharpEjercicio4\obj\Debug\net6.0\CsharpEjercicio4.AssemblyInfoInputs.cache
+D:\programacion\C#\c# guia 5\CsharpEjercicio4\CsharpEjercicio4\obj\Debug\net6.0\CsharpEjercicio4.AssemblyInfo.cs
+D:\programacion\C#\c# guia 5\CsharpEjercicio4\CsharpEjercicio4\obj\Debug\net6.0\CsharpEjercicio4.csproj.CoreCompileInputs.cache
+D:\programacion\C#\c# guia 5\CsharpEjercicio4\CsharpEjercicio4\obj\Debug\net6.0\CsharpEjercicio4.dll
+D:\programacion\C#\c# guia 5\CsharpEjercicio4\CsharpEjercicio4\obj\Debug\net6.0\refint\CsharpEjercicio4.dll
+D:\programacion\C#\c# guia 5\CsharpEjercicio4\CsharpEjercicio4\obj\Debug\net6.0\CsharpEjercicio4.pdb
+D:\programacion\C#\c# guia 5\CsharpEjercicio4\CsharpEjercicio4\obj\Debug\net6.0\CsharpEjercicio4.genruntimeconfig.cache
+D:\programacion\C#\c# guia 5\CsharpEjercicio4\CsharpEjercicio4\obj\Debug\net6.0\ref\CsharpEjercicio4.dll

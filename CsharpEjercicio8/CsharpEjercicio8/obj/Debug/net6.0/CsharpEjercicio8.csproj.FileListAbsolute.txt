@@ -1,0 +1,15 @@
+D:\programacion\C#\c# guia 5\CsharpEjercicio8\CsharpEjercicio8\obj\Debug\net6.0\CsharpEjercicio8.csproj.AssemblyReference.cache
+D:\programacion\C#\c# guia 5\CsharpEjercicio8\CsharpEjercicio8\obj\Debug\net6.0\CsharpEjercicio8.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\C#\c# guia 5\CsharpEjercicio8\CsharpEjercicio8\obj\Debug\net6.0\CsharpEjercicio8.AssemblyInfoInputs.cache
+D:\programacion\C#\c# guia 5\CsharpEjercicio8\CsharpEjercicio8\obj\Debug\net6.0\CsharpEjercicio8.AssemblyInfo.cs
+D:\programacion\C#\c# guia 5\CsharpEjercicio8\CsharpEjercicio8\obj\Debug\net6.0\CsharpEjercicio8.csproj.CoreCompileInputs.cache
+D:\programacion\C#\c# guia 5\CsharpEjercicio8\CsharpEjercicio8\bin\Debug\net6.0\CsharpEjercicio8.exe
+D:\programacion\C#\c# guia 5\CsharpEjercicio8\CsharpEjercicio8\bin\Debug\net6.0\CsharpEjercicio8.deps.json
+D:\programacion\C#\c# guia 5\CsharpEjercicio8\CsharpEjercicio8\bin\Debug\net6.0\CsharpEjercicio8.runtimeconfig.json
+D:\programacion\C#\c# guia 5\CsharpEjercicio8\CsharpEjercicio8\bin\Debug\net6.0\CsharpEjercicio8.dll
+D:\programacion\C#\c# guia 5\CsharpEjercicio8\CsharpEjercicio8\bin\Debug\net6.0\CsharpEjercicio8.pdb
+D:\programacion\C#\c# guia 5\CsharpEjercicio8\CsharpEjercicio8\obj\Debug\net6.0\CsharpEjercicio8.dll
+D:\programacion\C#\c# guia 5\CsharpEjercicio8\CsharpEjercicio8\obj\Debug\net6.0\refint\CsharpEjercicio8.dll
+D:\programacion\C#\c# guia 5\CsharpEjercicio8\CsharpEjercicio8\obj\Debug\net6.0\CsharpEjercicio8.pdb
+D:\programacion\C#\c# guia 5\CsharpEjercicio8\CsharpEjercicio8\obj\Debug\net6.0\CsharpEjercicio8.genruntimeconfig.cache
+D:\programacion\C#\c# guia 5\CsharpEjercicio8\CsharpEjercicio8\obj\Debug\net6.0\ref\CsharpEjercicio8.dll

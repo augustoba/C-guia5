@@ -1,0 +1,15 @@
+D:\programacion\C#\c# guia 5\CsharpEjercicio7\CsharpEjercicio7\bin\Debug\net6.0\CsharpEjercicio7.exe
+D:\programacion\C#\c# guia 5\CsharpEjercicio7\CsharpEjercicio7\bin\Debug\net6.0\CsharpEjercicio7.deps.json
+D:\programacion\C#\c# guia 5\CsharpEjercicio7\CsharpEjercicio7\bin\Debug\net6.0\CsharpEjercicio7.runtimeconfig.json
+D:\programacion\C#\c# guia 5\CsharpEjercicio7\CsharpEjercicio7\bin\Debug\net6.0\CsharpEjercicio7.dll
+D:\programacion\C#\c# guia 5\CsharpEjercicio7\CsharpEjercicio7\bin\Debug\net6.0\CsharpEjercicio7.pdb
+D:\programacion\C#\c# guia 5\CsharpEjercicio7\CsharpEjercicio7\obj\Debug\net6.0\CsharpEjercicio7.csproj.AssemblyReference.cache
+D:\programacion\C#\c# guia 5\CsharpEjercicio7\CsharpEjercicio7\obj\Debug\net6.0\CsharpEjercicio7.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\C#\c# guia 5\CsharpEjercicio7\CsharpEjercicio7\obj\Debug\net6.0\CsharpEjercicio7.AssemblyInfoInputs.cache
+D:\programacion\C#\c# guia 5\CsharpEjercicio7\CsharpEjercicio7\obj\Debug\net6.0\CsharpEjercicio7.AssemblyInfo.cs
+D:\programacion\C#\c# guia 5\CsharpEjercicio7\CsharpEjercicio7\obj\Debug\net6.0\CsharpEjercicio7.csproj.CoreCompileInputs.cache
+D:\programacion\C#\c# guia 5\CsharpEjercicio7\CsharpEjercicio7\obj\Debug\net6.0\CsharpEjercicio7.dll
+D:\programacion\C#\c# guia 5\CsharpEjercicio7\CsharpEjercicio7\obj\Debug\net6.0\refint\CsharpEjercicio7.dll
+D:\programacion\C#\c# guia 5\CsharpEjercicio7\CsharpEjercicio7\obj\Debug\net6.0\CsharpEjercicio7.pdb
+D:\programacion\C#\c# guia 5\CsharpEjercicio7\CsharpEjercicio7\obj\Debug\net6.0\CsharpEjercicio7.genruntimeconfig.cache
+D:\programacion\C#\c# guia 5\CsharpEjercicio7\CsharpEjercicio7\obj\Debug\net6.0\ref\CsharpEjercicio7.dll
