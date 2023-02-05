@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CsharpEjercicio2/1.0.0": {
+        "runtime": {
+          "CsharpEjercicio2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CsharpEjercicio2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

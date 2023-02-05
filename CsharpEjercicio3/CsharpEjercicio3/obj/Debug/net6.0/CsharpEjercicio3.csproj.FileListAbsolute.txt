@@ -1,0 +1,15 @@
+D:\programacion\EGG2\c#+.net\CsharpEjercicio3\CsharpEjercicio3\bin\Debug\net6.0\CsharpEjercicio3.exe
+D:\programacion\EGG2\c#+.net\CsharpEjercicio3\CsharpEjercicio3\bin\Debug\net6.0\CsharpEjercicio3.deps.json
+D:\programacion\EGG2\c#+.net\CsharpEjercicio3\CsharpEjercicio3\bin\Debug\net6.0\CsharpEjercicio3.runtimeconfig.json
+D:\programacion\EGG2\c#+.net\CsharpEjercicio3\CsharpEjercicio3\bin\Debug\net6.0\CsharpEjercicio3.dll
+D:\programacion\EGG2\c#+.net\CsharpEjercicio3\CsharpEjercicio3\bin\Debug\net6.0\CsharpEjercicio3.pdb
+D:\programacion\EGG2\c#+.net\CsharpEjercicio3\CsharpEjercicio3\obj\Debug\net6.0\CsharpEjercicio3.csproj.AssemblyReference.cache
+D:\programacion\EGG2\c#+.net\CsharpEjercicio3\CsharpEjercicio3\obj\Debug\net6.0\CsharpEjercicio3.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacion\EGG2\c#+.net\CsharpEjercicio3\CsharpEjercicio3\obj\Debug\net6.0\CsharpEjercicio3.AssemblyInfoInputs.cache
+D:\programacion\EGG2\c#+.net\CsharpEjercicio3\CsharpEjercicio3\obj\Debug\net6.0\CsharpEjercicio3.AssemblyInfo.cs
+D:\programacion\EGG2\c#+.net\CsharpEjercicio3\CsharpEjercicio3\obj\Debug\net6.0\CsharpEjercicio3.csproj.CoreCompileInputs.cache
+D:\programacion\EGG2\c#+.net\CsharpEjercicio3\CsharpEjercicio3\obj\Debug\net6.0\CsharpEjercicio3.dll
+D:\programacion\EGG2\c#+.net\CsharpEjercicio3\CsharpEjercicio3\obj\Debug\net6.0\refint\CsharpEjercicio3.dll
+D:\programacion\EGG2\c#+.net\CsharpEjercicio3\CsharpEjercicio3\obj\Debug\net6.0\CsharpEjercicio3.pdb
+D:\programacion\EGG2\c#+.net\CsharpEjercicio3\CsharpEjercicio3\obj\Debug\net6.0\CsharpEjercicio3.genruntimeconfig.cache
+D:\programacion\EGG2\c#+.net\CsharpEjercicio3\CsharpEjercicio3\obj\Debug\net6.0\ref\CsharpEjercicio3.dll

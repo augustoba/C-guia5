@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programacion\\C#\\guia 5\\CsharpEjercicio1\\CsharpEjercicio1\\CsharpEjercicio1.csproj": {}
+    "D:\\programacion\\EGG2\\c#+.net\\CsharpEjercicio2\\CsharpEjercicio2\\CsharpEjercicio2.csproj": {}
   },
   "projects": {
-    "D:\\programacion\\C#\\guia 5\\CsharpEjercicio1\\CsharpEjercicio1\\CsharpEjercicio1.csproj": {
+    "D:\\programacion\\EGG2\\c#+.net\\CsharpEjercicio2\\CsharpEjercicio2\\CsharpEjercicio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programacion\\C#\\guia 5\\CsharpEjercicio1\\CsharpEjercicio1\\CsharpEjercicio1.csproj",
-        "projectName": "CsharpEjercicio1",
-        "projectPath": "D:\\programacion\\C#\\guia 5\\CsharpEjercicio1\\CsharpEjercicio1\\CsharpEjercicio1.csproj",
+        "projectUniqueName": "D:\\programacion\\EGG2\\c#+.net\\CsharpEjercicio2\\CsharpEjercicio2\\CsharpEjercicio2.csproj",
+        "projectName": "CsharpEjercicio2",
+        "projectPath": "D:\\programacion\\EGG2\\c#+.net\\CsharpEjercicio2\\CsharpEjercicio2\\CsharpEjercicio2.csproj",
         "packagesPath": "C:\\Users\\yo_au\\.nuget\\packages\\",
-        "outputPath": "D:\\programacion\\C#\\guia 5\\CsharpEjercicio1\\CsharpEjercicio1\\obj\\",
+        "outputPath": "D:\\programacion\\EGG2\\c#+.net\\CsharpEjercicio2\\CsharpEjercicio2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
